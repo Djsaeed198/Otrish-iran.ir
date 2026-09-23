@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix: اتریش‌نشین (Otrish-Iran)",
+  "description": "پلتفرم جامع مهاجرت، زندگی و خدمات فارسی زبانان در اتریش شامل ابزارهای کاربردی، نقشه خدمات، تالار گفتگو، ردیاب اقامت، محاسبه‌گر حقوق و دستیار حقوقی هوشمند",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
